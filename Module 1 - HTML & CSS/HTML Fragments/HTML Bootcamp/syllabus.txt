@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h1>HMTL & CSS</h1>
+<h3>Course Syllabus</h3>
+
+<p>
+<u>Duration:</u> 2 weeks (01/25/2024 – 02/08/2024)
+<br>
+<br>
+Objectives
+<ol>
+<li>Learn basic HTML coding</li>
+<li>Learn CSS coding</li>
+<li>Learn to create website and display content</li>
+<li>Learn how design layout and styling </li>
+<li>Read and understand HTML code </li>
+</ol>
+
+<br><br>
+Project: Build your own resume or portfolio
+<br><br>
+<u>Learning Objective</u>
+<ol>
+  <li>
+    Create HTML webpage using the following tags
+  </li>
+  <ul>
+    <li>Headings (various levels)</li>
+    <li>Paragraphs</li>
+    <li>Breaks</li> 
+    <li>Lists (ordered – numbered, unordered – bullet points)</li>
+    <li>Hyperlink tags<br>
+      f.	Container 
+    <li>Image </li>
+    <li>Comments</li>
+    <ul>i.	Sections</ul>
+    <ul>Header/footer </ul>
+    <li></li>
+    <li></li>
+  </ul>
+<li>
+Enhance HTML webpage using the following attributes:
+</li>
+ <ul>
+    <li>Styles</li>
+    <li>Hyperlink</li>
+    <li>Size (height, width)</li>
+ </ul>
+<li>
+Embed hyperlinks to the site
+</li>
+ <ul>
+  <li>
+     Within the page
+  </li>
+  <li>
+      External links
+  </li>
+  <li>
+	External links to open in the new tab
+  </li>
+  <li>
+	Hyperlink an object 
+  </li>
+  <li>
+	Hyperlink to send email 
+  </li>
+ </ul>
+  <li>
+     Insert tables
+  </li>
+  <li>
+	Embed iFrames
+  </li>
+  <li>
+	Embed images and videos to the site
+  </li>
+  <li>
+	Understand/use CSS
+	<ul>
+	<li>CSS properties</li>
+           <ul style="list-style-type:none;">
+		<li> - Background styles (highlight; highlight headings and/or paragraphs)</li>
+                <li> - Color (font color)</li>
+                <li> - Font styles/font families (arial, verbena, times new roman, etc.)</li>
+                <li> - Font size</li>
+                <li> - Text align (left, right, center)</li>
+	   </ul>
+	</ul>
+		
+  </li>
+  <li>
+	Unicode
+  </li>
+  <li>
+	Provide sample partial HTML code to figure out content/render
+  </li>
+
+
+</ol>
+
+
+
+</p>
+
+
+
+
+
+
+<p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</p>
+
+
+</body>
+</html>

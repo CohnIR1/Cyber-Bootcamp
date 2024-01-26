@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<title> Home </title>
+<body>
+
+<h1>Hello World! </h1>
+<h3 style="color:blue;">Hello World! </h3>
+<br>
+
+<p>
+Are you excited to learn HTML. Are you excited to learn HTML.
+Are you excited to learn HTML?
+</p>
+
+<p>We will learn how to create webpage using HTML tags, enchance the page using CSS properties, add hyperlinks. <br>
+
+To see full syllabus, click <a href="https://cohnreznick.sharepoint.com/sites/ClientPortal" target="_blank">here.</a>
+
+<p>And I can see this picture! Yay!</p>
+
+<img src="Summit_Denver.jpeg" width="400" height="310">
+
+</p>
+
+<iframe src="https://www.cohnreznick.com/" width="610" height="600"></iframe>
+
+</body>
+
+
+</html>

@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title> Resume </title>
+<body>
+
+Ieva Riddle
+<br>
+<img src="Riddle_Ieva_Digital.jpg" width="250" height="100">
+</br>
+
+Email: eva.riddle@hotmail.com
+Phone: 312-927-0346
+LinkedIn: Ieva Riddle LinkedIn Profile
+
+<br>
+
+<b>Summary</b>
+Forward thinking, detail and result oriented privacy management professional with versatile skill set, proven ability to quickly learn business model, processes and technology, recognize patterns, identify goals and priorities, and implement privacy program using industry leading privacy technology. Experienced working with global companies of various industries, guiding and engaging business stakeholders through privacy program and regulations. Seeking for a position that creates opportunities to manage a program and projects, collaborate with cross-functional teams, utilize knowledge and skills gained at previous experiences.
+<br>
+<b>Skills</b>
+<ol>
+<li>
+Privacy Management Platform: OneTrust (all modules)
+</li>
+<li>
+Project management and collaboration: Azure DevOps, MS Teams, JIRA/Confluence, Teamwork, MS SharePoint
+</li>
+Analytics and reporting: Tableau, Adobe Analytics – Omniture, MS SQL, Business Object Web Intelligence (BOXI)
+Vulnerability management: Qualys, GLB, SCCM compliance
+Web development software and technology: Square Space, WordPress, HTML, CSS
+</ol>
+CERTIFICATION
+Privacy: OneTrust Privacy Professional and multiple expert certificates
+Project Management: SAFe Agile 4 for Teams
+Reporting: SAP Business Objects, Crystal Reporting, Oracle SQL Reporting
+
+
+<b>EXPERIENCE</b>
+Privacy Analyst, Legal & Compliance
+SEI Investments, Oaks, PA/Chicago, IL
+2022 - present
+Managed a process of launching, reviewing, approving vendor assessments, and engaging vendor owners in the process when clarification needed.
+Owned a process of assessing over 300 IT assets, identifying owners, directly engaging with the owners on the calls, and reviewing and approving IT asset assessments.
+Cross referenced CMDB, Enterprise Risk system and Process Unity (vendor management system) to verify IT asset records and create master/local version (parent/child) relationship in OneTrust.
+Created templates for new assessments such as Transfer Assessment and Cloud Impact Assessment.
+
+Privacy, Data Protection and Compliance Senior Consultant
+Crowe, LLP, Chicago, IL
+2021(January) – 2022 (December)
+• Led and executed assigned project to reassess processing activities, analyze and review 900 assets, document findings and consolidated relevant and active assets by reducing inventory records to 400 assets.
+• Reported on cookie compliance gaps, cookie banner functionality and design after testing a sample of 100 websites of the U.S and Europe regions using Azure instances set up in multiple global jurisdictions.
+• Created risk model for aggregated inherent risk by selecting attributes that had the highest potential to result in the highest risk, applied the model for processing activities and created rules for PIA assessment to automate the process.
+• Collaborated on a framework and control mapping project and directly contributed for product/solution development to create privacy metrics and KPI’s
+• Assisted with development of Data Transfer Assessment for a global client, interviewed business stakeholders about processes and engaged directly with process owners to complete assessments for Schrems II; performed business and data transfer analysis, and applied findings to the new template for Standard Contractual Clauses (SCCs)
+• Performed privacy audit for a financial institution and gap analysis for a boat manufacturing to ensure privacy program readiness, compliance with regulatory laws and frameworks.
+
+
+<b>Education</b>
+DePaul University, Kellstadt Graduate School of Business, Chicago, IL
+Master of Science in Business Analytics (STEM)
+DePaul University, Driehaus College of Business, Chicago, IL
+Bachelor of Science in Business, Management Information System
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</body>

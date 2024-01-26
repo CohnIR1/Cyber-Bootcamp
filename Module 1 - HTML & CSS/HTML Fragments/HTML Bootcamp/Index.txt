@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+<!---<title>HTML Bootcamp</title>--->
+
+<body>
+
+<h1> Hello CTRP team! </h1>
+<h1 style="color:orange;"> Hello CTRP team! </h1>
+
+<h2 style="color:blue;"> Welcome to the first bootcamp class. </h2>
+<br>
+<p> Are you excited to learn HTML?</p>
+
+<p>We will learn how to create webpage using HTML tags, enchance the page using CSS properties, add hyperlinks. <br>
+To see full syllabus, click <a href="C:\Users\iriddle\Desktop\HTML Bootcamp\syllabus.html" target="_blank">here.</a>
+
+<p>
+<a href="C:\Users\iriddle\Desktop\HTML Bootcamp\syllabus"> Will this link open? </a>
+</p>
+
+</br>
+Let's add a picture!
+</br> 
+<img src="Summit_Denver.jpg">
+</br>
+Why cannot I see it? 
+<br>
+<!---Let's try it again?--->
+
+</br>
+<!---<p>And I can see this picture! Yay!</p>
+<img src="Summit_Denver.jpeg"></p>--->
+
+</br>
+<!----<p>And I can see this picture! Yay!</p>
+<img src="Summit_Denver.jpeg"></p>--->
+
+</br>
+<!---<p>Let's make it smaller.</p>--->
+<!---<p>Does it look better? </p>
+<p><img src="Summit_Denver.jpeg" width="400" height="300"></p>--->
+
+</p>
+
+
+
+
+</body>
+</html>
