@@ -1,0 +1,4 @@
+What is the source and destination IP address for this packet?
+What Layer 4 protocol is being used?
+What is the Layer 7 application?
+What is the name of the file being requested by the application?
